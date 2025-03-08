@@ -1,0 +1,9 @@
+﻿global using LIN.Cloud.Identity.Persistence.Contexts;
+global using LIN.Types.Cloud.Identity.Models;
+global using LIN.Types.Responses;
+global using LIN.Cloud.Identity.Persistence.Extensions;
+global using Microsoft.EntityFrameworkCore;
+global using LIN.Cloud.Identity.Persistence.Models;
+global using LIN.Cloud.Identity.Persistence.Repositories.EntityFramework.Builders;
+global using LIN.Types.Cloud.Identity.Enumerations;
+global using Microsoft.Extensions.Logging;
